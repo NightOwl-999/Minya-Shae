@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Minya-Shae
+- 👋 Hi, I’m @NightOwl-999
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning about Cyber Security through an EdX bootcamp
+- 🌱 I’m currently learning about Cyber Security
 - 💞️ I’m looking to collaborate on new projects
 - 📫 Contact me through GitHub
 
